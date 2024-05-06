@@ -2,6 +2,13 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+```sh
+git clone https://github.com/ersankarimi/nextjs-project-starter.git
+```
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ersankarimi/nextjs-project-starter/tree/main)
+[![Open with CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/ersankarimi/nextjs-project-starter/tree/main)
+
 ## Getting Started
 
 First, run the development server:
