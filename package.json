@@ -1,10 +1,5 @@
 {
   "name": "nextjs-project-starter",
-  "author": {
-    "name": "Ersan Karimi",
-    "email": "ersankarimii311@gmail.com",
-    "url": "https://ersankarimi.vercel.app/"
-  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
